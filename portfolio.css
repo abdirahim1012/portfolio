@@ -1,0 +1,59 @@
+.work {
+
+    height: 20rem !important;
+    width: 40rem !important;
+    border-radius: 16px;
+    text-align: center;
+    margin: auto
+    
+}
+
+.educationWork{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.educatioz {
+    height: 30rem !important;
+    width: 40rem !important;
+    border: 1px solid green;
+    text-align: center;
+    margin: auto
+    
+
+}
+
+.education{
+    padding: 25px;
+    /* border: 1px solid green; */
+}
+
+.workContainer{
+    padding: 25px;
+    /* border: 1px solid green; */
+}
+
+.card-body {
+    padding-left: 0px !important;
+}
+
+.games {
+    width: 40rem !important;
+    text-align: center;
+    width: 18rem; border: 3px solid green;
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-radius: 16px;
+}
+
+.books {
+    height: 15rem !important;
+    width: 40rem !important;
+
+
+}
+
